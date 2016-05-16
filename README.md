@@ -3,7 +3,7 @@ Mini Cactpot
 
 A collection of Mini Cactpot games to play with different languages.
 
-[NodeJS](./node/README.md)
+[NodeJS](./node)
 
 ## Rules
 Mini Cactpot is a game of chance. The player is given a card with 9 squares 
